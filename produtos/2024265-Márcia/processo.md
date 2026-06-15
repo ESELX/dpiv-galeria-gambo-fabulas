@@ -14,10 +14,6 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
-
-
 ## 1.Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
@@ -34,7 +30,7 @@ exploração de variantes.
 
 ## 3. Pesquisa
 
-### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 3.1. Aspectos valorizados do moodboard.
 
 ![](attachments/Imagem3.png)
 
