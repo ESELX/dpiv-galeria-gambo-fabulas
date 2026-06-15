@@ -53,7 +53,7 @@ A produção do tabuleiro e dos peões foi feita utilizando tecnologia CNC, que 
 
 
 
-- Modelo 3D: <!-- [https://a360.co/3PQ96T1](https://a360.co/3PQ96T1) -->
+- Modelo 3D: https://a360.co/3PQ96T1
 - Ficheiros: `attachments/`
 
 ## Função
