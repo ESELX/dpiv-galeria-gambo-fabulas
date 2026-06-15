@@ -36,7 +36,7 @@ O meu projeto propõe uma abordagem baseada na memória e na descoberta, incenti
 
 A integração das personagens do conto clássico procura estimular a imaginação e reforçar a ligação da criança ao universo da literatura infantil, transformando o processo de jogo e eliminação de peças numa experiência narrativa e exploratória sobre a paciência e a persistência. Paralelamente, o jogo valoriza uma dimensão sustentável através da utilização da madeira como material principal , que promove o reaproveitamento de materiais e o desenvolvimento de produtos educativos assentes em princípios de design consciente e responsável.
 
-![](attachments/placeholder.png)
+![](attachments/Imagem3.png)
 
 ## Enquadramento
 
@@ -66,22 +66,23 @@ A dinâmica de jogo é realizada através de encaixes simples entre as bases qua
 
 ## Apresentação
 
+**Processo**
 1º Pesquisa individual e modelação digital
 
 2ºModelação no Fusion 360, preparação dos ficheiros, corte CNC, montagem e acabamentos finais.
 
-3º**Esboços e Pranchas-Resumo**
+3ºEsboços e Pranchas-Resumo
 
 -Exploração de formas, encaixes e organização dos elementos através de esboços e pranchas de síntese.
 
 -Desenhos em papel -Exploração de variantes.
 
-**4ºModelos 3D**
+4ºModelos 3D
 
-**Pesquisa** Análise de jogos de tabuleiro educativos em madeira, com referências focadas no desenvolvimento da memória, da coordenação motora fina e da competitividade saudável em contexto infantil. Foram valorizadas as formas presentes na identidade visual da marca Nestor, bem como a coerência estética entre os projetos coletivos do grupo. A linguagem visual associada à narrativa clássica e às formas geométricas dos peões influenciou diretamente o desenvolvimento formal do **Turtle & Hare**, garantindo uma ligação consistente entre o projeto individual — assente no rigor mecânico do jogo de tabuleiro — e o universo visual e material da coleção.
+**Pesquisa**
+Análise de jogos de tabuleiro educativos em madeira, com referências focadas no desenvolvimento da memória, da coordenação motora fina e da competitividade saudável em contexto infantil. Foram valorizadas as formas presentes na identidade visual da marca Nestor, bem como a coerência estética entre os projetos coletivos do grupo. A linguagem visual associada à narrativa clássica e às formas geométricas dos peões influenciou diretamente o desenvolvimento formal do **Turtle & Hare**, garantindo uma ligação consistente entre o projeto individual — assente no rigor mecânico do jogo de tabuleiro — e o universo visual e material da coleção.
 
 **Objetos de referencia**
-
 Contos infantis, jogos de tabuleiro simples mas desafiadores e jogos digitais.
 
 ![](attachments/Imagem2.png)
