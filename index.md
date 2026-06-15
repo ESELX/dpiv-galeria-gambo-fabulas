@@ -15,7 +15,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Gambo Fabulas
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -53,17 +53,17 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024349-Antony/">
-    <img src="produtos/2024349-Antony/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024349-Antony/attachments/ovo.png" alt="" />
     <h3>Oopssie Dumty!</h3>
     <p>Antony Brazão</p>
   </a>
 <a class="gallery-card" href="produtos/2024294-Fabiana/">
-    <img src="produtos/2024294-Fabiana/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024294-Fabiana/attachments/pino.jpg" alt="" />
     <h3>Pinochio's Lies</h3>
     <p>Fabiana Silva</p>
   </a>
 <a class="gallery-card" href="produtos/2024265-Márcia/">
-    <img src="produtos/2024265-Márcia/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024265-Márcia/attachments/tartaruga.png" alt="" />
     <h3>Turttle and Hare</h3>
     <p>Márcia Mateus</p>
   </a>
