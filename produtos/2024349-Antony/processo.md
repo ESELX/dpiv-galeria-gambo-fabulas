@@ -14,60 +14,21 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
-## 1. Protótipo(s)
-
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
+## 1. Protótipo
 
 
-## 3. Protótipos Exploratórios
+![Protótipo final](attachments/Imagem4.jpg)
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+## 2. Modelos 3D
 
-![](attachments/placeholder.png)
+https://a360.co/3RBHtO3
 
-## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
+## 3. Esboços e Pranchas-Resumo
 
-https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
+![](attachments/Imagem2.png)
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+### 4. Objetos de referencia
 
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/placeholder.png)
-
-## 7. Pesquisa
-
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
-
-### 7.2. Objetos de referencia
-
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+![](attachments/Moodboard2.jpg)

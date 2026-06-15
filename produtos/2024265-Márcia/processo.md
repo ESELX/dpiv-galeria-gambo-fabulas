@@ -22,10 +22,6 @@ https://a360.co/3PQ96T1
 
 ## 2. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
 ![](attachments/Imagem4.jpeg)
 
 ## 3. Pesquisa
