@@ -1,17 +1,17 @@
 ---
-title: Nome do Grupo
+title: Gambo Fabulas
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: ../attachments/Header.png
-hero_title: Nome do Grupo
+hero_title: Gambo Fabulas
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: ""
+group_name: Gambo Fabulas
 group_number: ""
 ---
 
