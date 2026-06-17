@@ -1,17 +1,17 @@
 ---
-title: Nome do Produto
+title: Turtle&Hare
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/tartaruga.png
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: Turtle&Hare
+hero_subtitle: Márcia Mateus · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Márcia Mateus
+student_number: "2024265"
 ---
 # Turtle&Hare - Jogo de memória
 

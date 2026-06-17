@@ -1,17 +1,17 @@
 ---
-title: Nome do Produto
+title: Oopssie Dumty!
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/ovo.png
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: Oppsie Dumty!
+hero_subtitle: Antony Brazão · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Antony Brazão
+student_number: "2024349"
 ---
 
 # Oopssie Dumty! - Jogo de precisão.

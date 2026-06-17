@@ -1,17 +1,17 @@
 ---
-title: Nome do Produto
+title: Pinocchio’s Lies
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/pino.jpg
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: " Pinocchio’s Lies"
+hero_subtitle: Fabiana Silva · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Fabiana Silva
+student_number: "2024294"
 ---
 
 # Pinocchio’s Lies - Jogo de precisão.
