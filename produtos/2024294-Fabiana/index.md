@@ -29,7 +29,11 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+**Ideia central**
+**Pinocchio’s Lies** é um jogo de pontaria e destreza inspirado na clássica história do Pinóquio. O objetivo é lançar argolas e tentar encaixá-las numa haste vertical, desafiando a precisão e o controlo dos movimentos dos jogadores.
+
+
+O jogo foi concebido para proporcionar momentos de diversão, competição saudável e interação social. As quatro argolas incluídas possuem diferentes dimensões, criando níveis de dificuldade progressivos: a argola maior é mais fácil de acertar, enquanto a menor representa o maior desafio. Desta forma, o jogo incentiva os participantes a melhorar gradualmente a sua pontaria e coordenação motora..
 
 ![](attachments/placeholder.png)
 
