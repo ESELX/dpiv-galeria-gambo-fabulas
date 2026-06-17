@@ -3,7 +3,7 @@ title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
+hero_image: ../attachments/Header.png
 hero_title: Nome do Grupo
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
@@ -17,7 +17,7 @@ group_number: ""
 
 # Gambo Fabulas
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+Gambo Fabulas, brinquedos que fazem voar a tua imaginação
 
 ## Elementos do Grupo
 
@@ -30,12 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
-
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
-
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+![](attachments/MoodboardContexto.png)
 
 [Ver contexto completo →](contexto.md)
 
