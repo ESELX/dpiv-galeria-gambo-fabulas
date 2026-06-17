@@ -3,7 +3,7 @@ title: Gambo Fabulas
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/Header1.png
+hero_image: ../attachments/Header1.jpg
 hero_title: Gambo Fabulas
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh

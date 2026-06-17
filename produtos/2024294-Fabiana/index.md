@@ -56,7 +56,7 @@ Numa fase inicial, o projeto foi concebido para ser produzido através de tecnol
 
 O projeto procurou sempre minimizar o desperdício de material e valorizar a reutilização da madeira, transformando resíduos em componentes funcionais, duráveis e adequados ao contexto lúdico e educativo do brinquedo.
 
-https://a360.co/4glh2X1
+[https://a360.co/3QvrroB](https://a360.co/3QvrroB)
 ## Função
 O **Pinocchio’s Lies** funciona como um jogo de lançamento de argolas em que os jogadores tentam acertar numa haste vertical utilizando argolas de diferentes dimensões.
 

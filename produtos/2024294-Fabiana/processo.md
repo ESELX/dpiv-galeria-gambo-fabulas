@@ -17,7 +17,7 @@ published: true
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/3PQ96T1
+https://a360.co/3QvrroB
 
 ## 2. Esboços e Pranchas-Resumo
 ![](attachments/Imagem2%202.png)
